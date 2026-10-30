@@ -1,0 +1,46 @@
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.first{
+    display: flex;
+}
+.one{
+     padding: 0 0 0 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: orange;
+}
+.two{
+  
+     font-size: 30px;
+    font-weight: bolder;
+    color: green;
+}
+.three{
+    color: black;
+    font-weight: bolder;
+}
+.third input{
+    border: 1px solid black;
+    height: 20px;
+    width: 450px;
+    border-radius: 5px;
+    background-color: rgb(222, 219, 219);
+}
+.forth{
+    padding: 0 3px;
+}
+.five{
+    padding: 0 20px 0 0;
+}
+.main1{
+    display: flex;
+}
+.image{
+    padding: 10px;
+}
+.foter{
+    display: grid;
+}
